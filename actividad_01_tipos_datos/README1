@@ -1,0 +1,12 @@
+# Actividad: Tipos de datos en C
+## Descripción
+Programa que usa los diferentes tipos de datos, imprime su uso y su dirección de memoria.
+
+## Temas aplicados
+- Tipos de datos
+- Dirección de memoria por &
+
+## Compilación
+gcc TiposDeDatosC.c -o TiposDeDatos.exe
+## Ejecución
+./TiposDeDatos.exe
