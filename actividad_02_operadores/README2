@@ -1,0 +1,15 @@
+# Actividad: Tipos de datos en C
+## Descripción
+Programa que usa operadores y operaciones básicas
+
+## Temas aplicados
+- Jerarquía de operaciones
+- Precedencia
+- Operador ternario
+- Or y Or bitwise
+- Incremento y decremento
+
+## Compilación
+gcc Operaciones.c -o Operaciones.exe
+## Ejecución
+./Operaciones.exe
