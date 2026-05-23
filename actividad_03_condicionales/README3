@@ -1,10 +1,10 @@
 # Actividad: Uso de condicionales
 ## Descripción
-Programa que usa operadores y operaciones básicas
+Programas hechos con la estructura IF-ELSE
 
 ## Temas aplicados
-- Jerarquía de operaciones
-- Precedencia
-- Operador ternario
-- Or y Or bitwise
-- Incremento y decremento
+- Condicionales
+- Operadores lógicos
+- Ciclo for
+- If anidado
+- Strings
