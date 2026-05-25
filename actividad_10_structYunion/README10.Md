@@ -8,8 +8,10 @@ Uso de struct y union para recopilación de datos
 - Operadores
 - Struct
 - Union
+- Arreglos
+- Cadenas
 
 ## Compilación
-gcc BattleShipRELOADED.c -o BattleShipRELOADED.exe
+gcc StructYUnion.c -o StructYUnion.exe
 ## Ejecución
-.\BattleShipRELOADED.exe
+.\StructYUnion.exe
