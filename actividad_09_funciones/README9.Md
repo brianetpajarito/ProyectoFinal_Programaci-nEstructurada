@@ -8,8 +8,4 @@ Modularización por funciones
 - Operadores
 - Punteros
 - Arreglos
-
-## Compilación
-gcc BattleShipRELOADED.c -o BattleShipRELOADED.exe
-## Ejecución
-.\BattleShipRELOADED.exe
+- Archivos
