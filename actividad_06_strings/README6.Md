@@ -1,6 +1,6 @@
 # Actividad: Strings
 ## Descripción
-Programas que hacen uso y solicitan cadena de caracteres
+Programas que hacen uso y solicitan cadena de caracteres, además de uso de funciones para cadenas
 
 ## Temas aplicados
 - scanf
