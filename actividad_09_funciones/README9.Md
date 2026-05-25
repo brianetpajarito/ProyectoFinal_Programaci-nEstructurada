@@ -6,6 +6,8 @@ Modularización por funciones
 - Estructuras de Control 
 - Funciones
 - Operadores
+- Punteros
+- Arreglos
 
 ## Compilación
 gcc BattleShipRELOADED.c -o BattleShipRELOADED.exe
