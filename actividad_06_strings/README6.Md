@@ -14,3 +14,8 @@ Programas que hacen uso y solicitan cadena de caracteres, además de uso de func
 - stcpy
 - stcat
 - strcmp
+
+## Compilación
+gcc String.c -o String.exe
+## Ejecución
+.\String.exe
