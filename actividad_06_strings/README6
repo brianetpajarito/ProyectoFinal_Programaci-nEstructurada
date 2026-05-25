@@ -11,4 +11,6 @@ Programas que hacen uso y solicitan cadena de caracteres
 - Ciclo for
 - If-else anidado
 - strlen
-- 
+- stcpy
+- stcat
+- strcmp
