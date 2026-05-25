@@ -9,4 +9,4 @@ Programa que usa los diferentes tipos de datos, imprime su uso y su dirección d
 ## Compilación
 gcc TiposDeDatosC.c -o TiposDeDatos.exe
 ## Ejecución
-./TiposDeDatos.exe
+.\TiposDeDatos.exe
