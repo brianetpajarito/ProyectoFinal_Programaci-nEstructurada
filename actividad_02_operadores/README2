@@ -12,4 +12,4 @@ Programa que usa operadores y operaciones básicas
 ## Compilación
 gcc Operaciones.c -o Operaciones.exe
 ## Ejecución
-./Operaciones.exe
+.\Operaciones.exe
